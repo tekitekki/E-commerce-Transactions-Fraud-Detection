@@ -16,7 +16,7 @@ These are the tasks you are asked to do:
 - signup_time : the time when the user created her account (GMT time)
 - purchase_time : the time when the user bought the item (GMT time)
 - purchase_value : the cost of the item purchased (USD)
-- device_id : the device id. You can assume that it is unique by device. I.e., 􏰅 transa􏰄tions with the same device ID means that the same physical device was used to bu􏰆
+- device_id : the device id. You can assume that it is unique by device. I.e., transactions with the same device ID means that the same physical device was used to buy
 - source : user marketing channel: ads, SEO, Direct (i.e. came to the site by directly typing the site address on the browser).
 - browser : the browser used by the user.
 - sex : user sex: Male/Female
